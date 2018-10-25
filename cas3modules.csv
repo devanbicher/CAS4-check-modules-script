@@ -1,0 +1,347 @@
+Access control,Block Access (block_access),Enabled,7.x-1.6
+Access control,Content Access (content_access),Enabled,7.x-1.2-beta2
+Access control,Content Access Rules Integrations (content_access_rules),Not installed,7.x-1.2-beta2
+Access control,Node view permissions (node_view_permissions),Not installed,7.x-1.6
+Access control,Nodeaccess (nodeaccess),Not installed,7.x-1.4
+Administration,Actions permissions (VBO) (actions_permissions),Not installed,7.x-3.3
+Administration,Administration Development tools (admin_devel),Not installed,7.x-3.0-rc5
+Administration,Administration menu (admin_menu),Enabled,7.x-3.0-rc5
+Administration,Administration menu Toolbar style (admin_menu_toolbar),Enabled,7.x-3.0-rc5
+Administration,Administration views (admin_views),Not installed,7.x-3.0-rc1
+Administration,Coffee (coffee),Not installed,7.x-2.0
+Administration,Filter permissions (filter_perms),Not installed,7.x-1.0
+Administration,Module filter (module_filter),Enabled,7.x-2.0
+Administration,Module Missing Message Fixer (module_missing_message_fixer),Not installed,7.x-1.2
+Biblio,Biblio (biblio),Not installed,7.x-1.0-rc7
+Biblio,Biblio - BibTex (biblio_bibtex),Not installed,7.x-1.0-rc7
+Biblio,Biblio - CiteProc (biblio_citeproc),Not installed,7.x-1.0-rc7
+Biblio,Biblio - Crossref (biblio_crossref),Not installed,7.x-1.0-rc7
+Biblio,Biblio - EndNote Tagged (biblio_tagged),Not installed,7.x-1.0-rc7
+Biblio,Biblio - EndNote XML (biblio_xml),Not installed,7.x-1.0-rc7
+Biblio,Biblio - MARC (biblio_marc),Not installed,7.x-1.0-rc7
+Biblio,Biblio - PubMed (biblio_pm),Not installed,7.x-1.0-rc7
+Biblio,Biblio - RIS (biblio_ris),Not installed,7.x-1.0-rc7
+Biblio,Biblio - RTF (biblio_rtf),Not installed,7.x-1.0-rc7
+Chaos tool suite,Bulk Export (bulk_export),Not installed,7.x-1.12
+Chaos tool suite,Chaos tools (ctools),Enabled,7.x-1.12
+Chaos tool suite,Chaos Tools (CTools) AJAX Example (ctools_ajax_sample),Not installed,7.x-1.12
+Chaos tool suite,Chaos Tools (CTools) Plugin Example (ctools_plugin_example),Not installed,7.x-1.12
+Chaos tool suite,Custom content panes (ctools_custom_content),Disabled,7.x-1.12
+Chaos tool suite,Custom rulesets (ctools_access_ruleset),Not installed,7.x-1.12
+Chaos tool suite,Page manager (page_manager),Disabled,7.x-1.12
+Chaos tool suite,Stylizer (stylizer),Not installed,7.x-1.12
+Chaos tool suite,Term Depth access (term_depth),Not installed,7.x-1.12
+Chaos tool suite,Views content panes (views_content),Disabled,7.x-1.12
+Charting,Chart API (chart),Enabled,7.x-1.1
+Charting,Chart API Views Integration (chart_views),Not installed,7.x-1.1
+Charting,Drupal System Charting (system_charts),Not installed,7.x-1.1
+Charts,Charts (charts),Not installed,7.x-2.0-beta5
+Charts,Google Charts (charts_google),Not installed,7.x-2.0-beta5
+Charts,Highcharts (charts_highcharts),Not installed,7.x-2.0-beta5
+Chat,Chat Room (chatroom),Not installed,7.x-2.1
+Content,Datasource Aggregator (datasources_aggregator),Not installed,7.x-1.0-beta2
+Content,Datasource dummy (datasources_dummy),Not installed,7.x-1.0-beta2
+Content,Datasources (datasources),Not installed,7.x-1.0-beta2
+Content,Udid Dummy Datasource (udid_dummy),Not installed,7.x-1.0-beta2
+Content,Unique (by) Datasource Identifier (udid),Not installed,7.x-1.0-beta2
+Context,Context (context),Not installed,7.x-3.7
+Context,Context layouts (context_layouts),Not installed,7.x-3.7
+Context,Context UI (context_ui),Not installed,7.x-3.7
+Core,Aggregator (aggregator),Not installed,7.59
+Core,Block (block),Enabled,7.59
+Core,Blog (blog),Disabled,7.59
+Core,Book (book),Not installed,7.59
+Core,Color (color),Enabled,7.59
+Core,Comment (comment),Enabled,7.59
+Core,Contact (contact),Not installed,7.59
+Core,Content translation (translation),Not installed,7.59
+Core,Contextual links (contextual),Enabled,7.59
+Core,Dashboard (dashboard),Enabled,7.59
+Core,Database logging (dblog),Enabled,7.59
+Core,Field (field),Enabled,7.59
+Core,Field SQL storage (field_sql_storage),Enabled,7.59
+Core,Field UI (field_ui),Enabled,7.59
+Core,File (file),Enabled,7.59
+Core,Filter (filter),Enabled,7.59
+Core,Forum (forum),Not installed,7.59
+Core,Help (help),Enabled,7.59
+Core,Image (image),Enabled,7.59
+Core,List (list),Enabled,7.59
+Core,Locale (locale),Not installed,7.59
+Core,Menu (menu),Enabled,7.59
+Core,Node (node),Enabled,7.59
+Core,Number (number),Enabled,7.59
+Core,OpenID (openid),Not installed,7.59
+Core,Options (options),Enabled,7.59
+Core,Overlay (overlay),Disabled,7.59
+Core,Path (path),Enabled,7.59
+Core,PHP filter (php),Not installed,7.59
+Core,Poll (poll),Not installed,7.59
+Core,RDF (rdf),Enabled,7.59
+Core,Search (search),Enabled,7.59
+Core,Shortcut (shortcut),Enabled,7.59
+Core,Statistics (statistics),Enabled,7.59
+Core,Syslog (syslog),Not installed,7.59
+Core,System (system),Enabled,7.59
+Core,Taxonomy (taxonomy),Enabled,7.59
+Core,Testing (simpletest),Not installed,7.59
+Core,Text (text),Enabled,7.59
+Core,Toolbar (toolbar),Disabled,7.59
+Core,Tracker (tracker),Not installed,7.59
+Core,Trigger (trigger),Not installed,7.59
+Core,Update manager (update),Enabled,7.59
+Core,User (user),Enabled,7.59
+Database,Schema (schema),Not installed,7.x-1.2
+Date/Time,Calendar (calendar),Not installed,7.x-3.4
+Date/Time,Date (date),Enabled,7.x-2.9
+Date/Time,Date All Day (date_all_day),Not installed,7.x-2.9
+Date/Time,Date API (date_api),Enabled,7.x-2.9
+Date/Time,Date Context (date_context),Not installed,7.x-2.9
+Date/Time,Date Popup (date_popup),Not installed,7.x-2.9
+Date/Time,Date Repeat API (date_repeat),Not installed,7.x-2.9
+Date/Time,Date Repeat Field (date_repeat_field),Not installed,7.x-2.9
+Date/Time,Date Tools (date_tools),Not installed,7.x-2.9
+Date/Time,Date Views (date_views),Enabled,7.x-2.9
+Development,Devel (devel),Not installed,7.x-1.3
+Development,Devel generate (devel_generate),Not installed,7.x-1.3
+Development,Devel node access (devel_node_access),Not installed,7.x-1.3
+Development,Metatag: Devel (metatag_devel),Not installed,7.x-1.17
+Development,Migrate (migrate),Not installed,7.x-2.5
+Development,Migrate Example (migrate_example),Not installed,7.x-2.5
+Development,Migrate UI (migrate_ui),Not installed,7.x-2.5
+Development,Unused Modules (unused_modules),Not installed,7.x-1.6
+Display Suite,Display Suite (ds),Not installed,7.x-2.6
+Display Suite,Display Suite Devel (ds_devel),Not installed,7.x-2.6
+Display Suite,Display Suite Extras (ds_extras),Not installed,7.x-2.6
+Display Suite,Display Suite Format (ds_format),Not installed,7.x-2.6
+Display Suite,Display Suite Forms (ds_forms),Not installed,7.x-2.6
+Display Suite,Display Suite Search (ds_search),Not installed,7.x-2.6
+Display Suite,Display Suite UI (ds_ui),Not installed,7.x-2.6
+DocArch,Document Archives (document_archives),Enabled
+Domain Access,Domain Access (domain),Not installed,7.x-3.12
+Domain Access,Domain Alias (domain_alias),Not installed,7.x-3.12
+Domain Access,Domain Blocks (domain_blocks),Not installed,7.x-3.x-dev
+Domain Access,Domain Configuration (domain_conf),Not installed,7.x-3.12
+Domain Access,Domain Content (domain_content),Not installed,7.x-3.12
+Domain Access,Domain Navigation (domain_nav),Not installed,7.x-3.12
+Domain Access,Domain Settings (domain_settings),Not installed,7.x-3.12
+Domain Access,Domain Source (domain_source),Not installed,7.x-3.12
+Domain Access,Domain Strict (domain_strict),Not installed,7.x-3.12
+Domain Access,Domain Theme (domain_theme),Not installed,7.x-3.12
+Features,Basic Profile & Views (basic_profile_view),Not installed,7.x-1.1
+Features,Clean Text Format (clean_text_format),Not installed,7.x-1.0
+Features,Date Migration Example (date_migrate_example),Not installed,7.x-2.9
+Features,Department Taxonomy (department_taxonomy),Not installed,7.x-1.0
+Features,Events and Views (events_and_views),Not installed,7.x-1.1
+Features,Events No Links (events_no_links),Not installed,7.x-1.0
+Features,Features (features),Enabled,7.x-2.10
+Features,Features tools (features_tools),Not installed,7.x-1.5
+Features,Full Flexslider (full_flexslider),Disabled,7.x-1.0
+Features,Lehigh EventsCalendar (lehigh_eventscalendar),Not installed,7.x-3.1
+Features,Roles (roles),Disabled
+Features,Roster Feed importer (roster_feed_importer),Not installed
+Features,UUID Services Example (uuid_services_example),Not installed,7.x-1.0
+Feeds,Feed Import (feed_import),Not installed,7.x-3.4
+Feeds,Feed Import Base (feed_import_base),Not installed,7.x-3.4
+Feeds,Feeds (feeds),Not installed,7.x-2.0-beta2
+Feeds,Feeds Admin UI (feeds_ui),Not installed,7.x-2.0-beta2
+Feeds,Feeds Import (feeds_import),Not installed,7.x-2.0-beta2
+Feeds,Feeds News (feeds_news),Not installed,7.x-2.0-beta2
+Feeds,Feeds XPath Parser (feeds_xpathparser),Not installed,7.x-1.1
+Fields,Bundle copy (bundle_copy),Not installed,7.x-1.1
+Fields,Conditional Fields (conditional_fields),Not installed,7.x-3.0-alpha2
+Fields,Email (email),Enabled,7.x-1.3
+Fields,Entity Reference (entityreference),Not installed,7.x-1.3
+Fields,Entity Reference Behavior Example (entityreference_behavior_example),Not installed,7.x-1.3
+Fields,Field Group (field_group),Not installed,7.x-1.4
+Fields,Field Permissions (field_permissions),Enabled,7.x-1.0
+Fields,Fieldgroup callouts (fieldgroup_callouts),Not installed,7.x-1.0
+Fields,File (Field) Paths (filefield_paths),Not installed,7.x-1.0
+Fields,File Field Sources (filefield_sources),Enabled,7.x-1.10
+Fields,Link (link),Enabled,7.x-1.4
+Fields,Multiupload Filefield Widget (multiupload_filefield_widget),Not installed,7.x-1.13
+Fields,Multiupload Imagefield Widget (multiupload_imagefield_widget),Not installed,7.x-1.3
+Fields,Node Reference (node_reference),Not installed,7.x-2.1
+Fields,References (references),Not installed,7.x-2.1
+Fields,User Reference (user_reference),Not installed,7.x-2.1
+File Management,File Checker (file_checker),Enabled,7.x-1.2
+Flex Slider,Flex Slider (flexslider),Enabled,7.x-1.0-rc3
+Flex Slider,Flex Slider Fields (flexslider_fields),Disabled,7.x-1.0-rc3
+Flex Slider,Flex Slider Views Slideshow (flexslider_views_slideshow),Disabled,7.x-1.0-rc3
+Flex Slider,Flex Slider Views Style (flexslider_views),Disabled,7.x-1.0-rc3
+FullCalendar,Calendar Events (calendar_events),Disabled
+FullCalendar,DeptCal (load_department_calendar_view),Not installed
+FullCalendar,FullCalendar (fullcalendar),Disabled,7.x-2.0
+FullCalendar,FullCalendar Colors (fullcalendar_colors),Disabled,7.x-2.0
+FullCalendar,FullCalendar Legend (fullcalendar_legend),Disabled,7.x-2.0
+FullCalendar,FullCalendar Options (fullcalendar_options),Disabled,7.x-2.0
+FullCalendar,View Calendar (view_calendar),Disabled
+Input filters,Pathologic (pathologic),Enabled,7.x-2.12
+Lightweight Directory Access Protocol,LDAP Authentication (ldap_authentication),Enabled,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Authorization (ldap_authorization),Disabled,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Authorization - Drupal Roles (ldap_authorization_drupal_role),Not installed,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Authorization - OG (Organic Groups) (ldap_authorization_og),Not installed,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Feeds (ldap_feeds),Not installed,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Help (ldap_help),Disabled,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Profile (ldap_profile),Not installed,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Query (ldap_query),Not installed,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Servers (ldap_servers),Enabled,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP SSO (ldap_sso),Disabled,7.x-1.0-beta14
+Lightweight Directory Access Protocol,LDAP Views (ldap_views),Not installed,7.x-1.0-beta14
+Markup,HTML5 Tools (html5_tools),Not installed,7.x-1.2
+Media,File Entity (file_entity),Enabled,7.x-2.0-beta3
+Media,IMCE (imce),Enabled,7.x-1.10
+Media,IMCE for File Field (imce_filefield),Not installed,7.x-1.1
+Media,IMCE Mkdir (imce_mkdir),Enabled,7.x-1.0
+Media,IMCE Rename (imce_rename),Enabled,7.x-1.3
+Media,IMCE Uploader (imce_uploader),Not installed,7.x-1.3
+Media,IMCE Uploader - Plupload (imce_uploader_plupload),Not installed,7.x-1.3
+Media,jPlayer (jplayer),Not installed,7.x-2.0-beta1
+Media,jPlayer Content Protection (jplayer_protect),Not installed,7.x-2.0-beta1
+Media,Media (media),Enabled,7.x-2.0-beta10
+Media,Media Bulk Upload (media_bulk_upload),Not installed,7.x-2.0-beta10
+Media,Media Field (mediafield),Disabled,7.x-2.0-beta10
+Media,Media Internet Sources (media_internet),Not installed,7.x-2.0-beta10
+Media,Media WYSIWYG (media_wysiwyg),Disabled,7.x-2.0-beta10
+Media,Media WYSIWYG View Mode (media_wysiwyg_view_mode),Not installed,7.x-2.0-beta10
+Media,Plupload integration module (plupload),Not installed,7.x-1.7
+Media,Video Embed Brightcove (video_embed_brightcove),Not installed,7.x-2.0-beta11
+Media,Video Embed Facebook (video_embed_facebook),Not installed,7.x-2.0-beta11
+Media,Video Embed Field (video_embed_field),Not installed,7.x-2.0-beta11
+Menu,TB Mega Menu (tb_megamenu),Not installed,7.x-1.0-rc2
+Migrate Examples,Migrate example - Oracle (migrate_example_oracle),Not installed,7.x-2.5
+Migrate Examples,migrate_example_baseball (migrate_example_baseball),Not installed,7.x-2.5
+Mobile Detect,Mobile Detect (mobile_detect),Not installed,7.x-1.0-alpha1
+Mobile Detect,Mobile Detect Caching (mobile_detect_caching),Not installed,7.x-1.0-alpha1
+Mobile Detect,Mobile Detect ctools (mobile_detect_ctools),Not installed,7.x-1.0-alpha1
+Mobile Detect,Mobile Detect Variables (mobile_detect_variables),Not installed,7.x-1.0-alpha1
+Multilingual - Internationalization,Panels translation (i18n_panels),Not installed,7.x-3.5
+Multilingual - Internationalization,Rules translation (rules_i18n),Not installed,7.x-2.10
+Navigate,Navigate (navigate),Not installed,7.x-1.0
+Navigate,Navigate Custom (navigate_custom),Not installed,7.x-1.0
+Navigate,Navigate Favorites (navigate_favorites),Not installed,7.x-1.0
+Navigate,Navigate Menu (navigate_menu),Not installed,7.x-1.0
+Navigate,Navigate Search (navigate_search),Not installed,7.x-1.0
+Node export,Node export (node_export),Not installed,7.x-3.1
+Node export,Node export book (node_export_book),Not installed,7.x-3.1
+Node export,Node export dependency (experimental) (node_export_dependency),Not installed,7.x-3.1
+Node export,Node export features (node_export_features),Not installed,7.x-3.1
+Node export,Node Export Features UI (node_export_features_ui),Not installed,7.x-3.1
+Node export,Node export feeds (node_export_feeds),Not installed,7.x-3.1
+Node export,Node export relation (deprecated) (node_export_relation),Not installed,7.x-3.1
+OAuth,OAuth (oauth_common),Enabled,7.x-3.2
+OAuth,OAuth Provider UI (oauth_common_providerui),Not installed,7.x-3.2
+Other,Administer Users by Role (administerusersbyrole),Not installed,7.x-2.0
+Other,AT Tools (at_tools),Not installed,7.x-1.x-dev
+Other,Backup and Migrate (backup_migrate),Enabled,7.x-3.4
+Other,Block Group (blockgroup),Not installed,7.x-2.2
+Other,Chain Menu Access API (chain_menu_access),Not installed,7.x-2.0
+Other,Colors (colors),Disabled,7.x-1.0-rc1
+Other,Diff (diff),Not installed,7.x-3.3
+Other,Elements (elements),Not installed,7.x-1.4
+Other,Entity API (entity),Not installed,7.x-1.7
+Other,Entity tokens (entity_token),Not installed,7.x-1.7
+Other,Exclude node title (exclude_node_title),Not installed,7.x-1.6
+Other,HTML Purifier (htmlpurifier),Not installed,7.x-1.0
+Other,Job Scheduler (job_scheduler),Not installed,7.x-2.0-alpha3
+Other,Job Scheduler Trigger (job_scheduler_trigger),Not installed,7.x-2.0-alpha3
+Other,Libraries (libraries),Enabled,7.x-2.3
+Other,Link checker (linkchecker),Enabled,7.x-1.3
+Other,Masquerade (masquerade),Disabled,7.x-1.0-rc7
+Other,Menu Block (menu_block),Not installed,7.x-2.5
+Other,Menu Block Export (menu_block_export),Not installed,7.x-2.5
+Other,Multisite Redirect (multisite_redirect),Not installed,7.x-1.0
+Other,Nice Menus (nice_menus),Not installed,7.x-2.5
+Other,Node Class (node_class),Not installed,7.x-1.3
+Other,Pathauto (pathauto),Enabled,7.x-1.3
+Other,Publish Content (publishcontent),Not installed,7.x-1.4
+Other,Redirect (redirect),Not installed,7.x-1.0-rc3
+Other,Related Links (relatedlinks),Not installed,7.x-1.x-dev
+Other,Revisioning (revisioning),Not installed,7.x-1.9
+Other,Revisioning Scheduler (revisioning_scheduler),Not installed,7.x-1.9
+Other,Revisioning UX (revisioning_ux),Not installed,7.x-1.9
+Other,Role delegation (role_delegation),Not installed,7.x-1.1
+Other,Secure Pages (securepages),Enabled,7.x-1.0-beta2
+Other,Security Review (security_review),Enabled,7.x-1.2
+Other,Site Verification (site_verify),Not installed,7.x-1.0
+Other,Strongarm (strongarm),Enabled,7.x-2.0
+Other,Token (token),Enabled,7.x-1.6
+Panels,Mini panels (panels_mini),Not installed,7.x-3.5
+Panels,Panel nodes (panels_node),Not installed,7.x-3.5
+Panels,Panels (panels),Not installed,7.x-3.5
+Panels,Panels In-Place Editor (panels_ipe),Not installed,7.x-3.5
+Paragraphs,Paragraphs (paragraphs),Not installed,7.x-1.0-rc5
+Paragraphs,Paragraphs - Internationalization (paragraphs_i18n),Not installed,7.x-1.0-rc5
+Paragraphs,Paragraphs Bundle Permissions (paragraphs_bundle_permissions),Not installed,7.x-1.0-rc5
+Path management,Global Redirect (globalredirect),Not installed,7.x-1.5
+People,No Request New Pass (noreqnewpass),Not installed,7.x-1.2
+Permissions,View Unpublished (view_unpublished),Not installed,7.x-1.2
+Roster,Roster (roster),Enabled,7.x-1.2
+Rules,Rules (rules),Not installed,7.x-2.10
+Rules,Rules Scheduler (rules_scheduler),Not installed,7.x-2.10
+Rules,Rules UI (rules_admin),Not installed,7.x-2.10
+Search,Custom Search (custom_search),Not installed,7.x-1.17
+Search,Custom Search Blocks (custom_search_blocks),Not installed,7.x-1.17
+Search,Custom Search Internationalization (custom_search_i18n),Not installed,7.x-1.17
+Search,Custom Search Taxonomy (custom_search_taxonomy),Not installed,7.x-1.17
+Search,Database search (search_api_db),Not installed,7.x-1.7
+Search,Search API (search_api),Not installed,7.x-1.25
+Search,Search facets (search_api_facetapi),Not installed,7.x-1.25
+Search,Search pages (search_api_page),Not installed,7.x-1.5
+Search,Search views (search_api_views),Not installed,7.x-1.25
+SEO,Metatag (metatag),Not installed,7.x-1.17
+SEO,Metatag Importer (metatag_importer),Not installed,7.x-1.17
+SEO,Metatag: App Links (metatag_app_links),Not installed,7.x-1.17
+SEO,Metatag: Context (metatag_context),Not installed,7.x-1.17
+SEO,Metatag: Dublin Core (metatag_dc),Not installed,7.x-1.17
+SEO,Metatag: Dublin Core Advanced (metatag_dc_advanced),Not installed,7.x-1.17
+SEO,Metatag: Facebook (metatag_facebook),Not installed,7.x-1.17
+SEO,Metatag: favicons (metatag_favicons),Not installed,7.x-1.17
+SEO,Metatag: Google+ (metatag_google_plus),Not installed,7.x-1.17
+SEO,Metatag: hreflang (metatag_hreflang),Not installed,7.x-1.17
+SEO,Metatag: Mobile & UI Adjustments (metatag_mobile),Not installed,7.x-1.17
+SEO,Metatag: OpenGraph (metatag_opengraph),Not installed,7.x-1.17
+SEO,Metatag: Panels (metatag_panels),Not installed,7.x-1.17
+SEO,Metatag: Twitter Cards (metatag_twitter_cards),Not installed,7.x-1.17
+SEO,Metatag: Verification (metatag_verification),Not installed,7.x-1.17
+SEO,Metatag: Views (metatag_views),Not installed,7.x-1.17
+SEO,Metatag:OpenGraph Products (metatag_opengraph_products),Not installed,7.x-1.17
+Services - resources,UUID Services (uuid_services),Not installed,7.x-1.0
+Slick,Slick (slick),Not installed,7.x-2.0
+Slick,Slick development (slick_devel),Not installed,7.x-2.0-beta4
+Slick,Slick example (slick_example),Not installed,7.x-2.0-beta4
+Slick,Slick extras (slick_extras),Not installed,7.x-2.0-beta4
+Slick,Slick fields (slick_fields),Not installed,7.x-2.0
+Slick,Slick UI (slick_ui),Not installed,7.x-2.0
+Slick,Slick views (slick_views),Not installed,7.x-2.0
+Spam control,CAPTCHA (captcha),Not installed,7.x-1.3
+Spam control,Image CAPTCHA (image_captcha),Not installed,7.x-1.3
+Spam control,reCAPTCHA (recaptcha),Not installed,7.x-2.0
+Statistics,Google Analytics (googleanalytics),Enabled,7.x-2.3
+Statistics,Google Analytics Reports (google_analytics_reports),Not installed,7.x-3.1
+Statistics,Google Analytics Reports API (google_analytics_reports_api),Not installed,7.x-3.1
+Taxonomy,Taxonomy CSV import/export (taxonomy_csv),Not installed,7.x-5.10
+User interface,CKEditor Link (ckeditor_link),Enabled,7.x-2.4
+User interface,IMCE Wysiwyg API bridge (imce_wysiwyg),Enabled,7.x-1.0
+User interface,jQuery Update (jquery_update),Enabled,7.x-2.7
+User interface,Lightbox2 (lightbox2),Enabled,7.x-1.0-beta1
+User interface,Responsive Menus (responsive_menus),Not installed,7.x-1.6
+User interface,Superfish (superfish),Not installed
+User interface,Wysiwyg (wysiwyg),Enabled,7.x-2.2
+UUID,Universally Unique ID (uuid),Not installed,7.x-1.0
+UUID,UUID Path (uuid_path),Not installed,7.x-1.0
+Views,BxSlider - Views Integration (bxslider_views_slideshow),Enabled,7.x-1.51
+Views,Views (views),Enabled,7.x-3.14
+Views,Views Accordion (views_accordion),Not installed,7.x-1.0-rc2
+Views,Views Autocomplete Filters (views_autocomplete_filters),Not installed,7.x-1.1
+Views,Views Bulk Operations (views_bulk_operations),Not installed,7.x-3.3
+Views,Views Data Export (views_data_export),Enabled,7.x-3.1
+Views,Views Field View (views_field_view),Disabled,7.x-1.1
+Views,Views fieldsets (views_fieldsets),Not installed,7.x-2.3
+Views,Views PHP (views_php),Not installed,7.x-1.0-alpha3
+Views,Views Slideshow (views_slideshow),Enabled,7.x-3.1
+Views,Views Slideshow: Cycle (views_slideshow_cycle),Disabled,7.x-3.1
+Views,Views Slideshow: Slider (views_slideshow_slider),Disabled,7.x-3.0
+Views,Views UI (views_ui),Enabled,7.x-3.14
+Webform,Webform (webform),Not installed,7.x-3.18
+Webform,Webform Conditional (webform_conditional),Not installed,7.x-1.0-beta1
