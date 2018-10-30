@@ -1,5 +1,5 @@
-import os,datetime
-#import sys
+import os,datetime, sys
+
 #This checks the modules on this server and indicates which are missing from the other 2 servers
 
 def parsemodulelist(modulefile):
@@ -27,6 +27,14 @@ def parsemodulelist(modulefile):
 
 
 def main():
+
+    version = false
+    if len(sys.argv) > 1:
+        if sys.argv[1].startswith('--'):
+            if sys.argv[1] == '--version':
+                version = true
+                
+    
     cas2file = open('cas2modules.csv','r')
     cas2modules = parsemodulelist(cas2file)
     cas2file.close()
@@ -48,6 +56,10 @@ def main():
 
     #now I guess loop through each cas2 and cas3 list and see which are the same.
 
+    for cas2 in sorted(cas2modules):
+        if cas2 not in modulelist.keys():
+            print cas2modules[cas2][0]+" ( "+cas2+" )  is on cas2, NOT on this server"
+    
     # I could add a flag to the script that checks the version of the modules in the other lists and prints out the comparisons.
 
 
