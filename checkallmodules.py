@@ -43,6 +43,8 @@ def main():
     cas3modules = parsemodulelist(cas3file)
     cas3file.close()
 
+    #I am also going to add a file here for checking that all of the modules on the default database are also on the site
+    
     #now get the currently installed modules on this server
     os.chdir('/var/www/drupal/sites/')
     #backup the old list, why not
