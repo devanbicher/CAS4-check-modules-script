@@ -63,8 +63,7 @@ def main():
             print cas2modules[cas2][0]+" ( "+cas2+" )  is on cas2, NOT on this server"
     
     # I could add a flag to the script that checks the version of the modules in the other lists and prints out the comparisons.
-
-
+    # To Do this look for python command flag integration libraries
 
 
 if __name__ == "__main__":
