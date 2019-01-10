@@ -61,6 +61,9 @@ def main():
         if sys.argv[1].startswith('--'):
             if sys.argv[1] == '--version':
                 version = True
+
+    here = '/home/dlb213/usedscripts/check_installedmodules'
+    os.chdir(here)
                 
     print "reading in CAS2 modules"
     cas2file = open('cas2modules.csv','r')
@@ -73,7 +76,7 @@ def main():
     cas3file.close()
 
     #I am also going to add a file here for checking that all of the modules on the default database are also on the site
-    here=os.getcwd()
+
     #now get the currently installed modules on this server
 
     #backup the old list, why not

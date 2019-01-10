@@ -77,6 +77,8 @@ Fields,Bundle copy (bundle_copy),Not installed,7.x-1.1
 Fields,Email (email),Not installed,7.x-1.3
 Fields,Entity Reference (entityreference),Not installed,7.x-1.5
 Fields,Entity Reference Behavior Example (entityreference_behavior_example),Not installed,7.x-1.5
+Fields,Multiupload Filefield Widget (multiupload_filefield_widget),Not installed,7.x-1.13
+Fields,Multiupload Imagefield Widget (multiupload_imagefield_widget),Not installed,7.x-1.3
 FlexSlider,FlexSlider (flexslider),Not installed,7.x-2.0-rc2
 FlexSlider,FlexSlider Example (flexslider_example),Not installed,7.x-2.0-rc2
 FlexSlider,FlexSlider Fields (flexslider_fields),Not installed,7.x-2.0-rc2
